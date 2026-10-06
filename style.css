@@ -14,7 +14,7 @@ body {
 }
 
 .logo {
-    width: 180px;
+    width: 250px;
     padding: 20px 0px;
 }
 
@@ -55,6 +55,9 @@ h1 {
 .featured{
     color: orangered;
     margin-bottom: 40px;
+    font-weight: 500;
+    border-left: 2px solid rgba(255, 213, 0, 0.888);
+    padding-left: 10px; 
 }
 
 .image-subtitle {
@@ -67,4 +70,12 @@ hr {
     background-color: #e3f2fd;
     height: 2px;
     border: none;
+}
+
+a{
+    color: rgb(62, 127, 148)
+}
+
+li{
+    padding: 10px;
 }
